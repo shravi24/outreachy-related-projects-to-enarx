@@ -1,0 +1,2 @@
+[workspace]
+members = ["crates/wasi-helloworld", "crates/wasm-helloworld", "crates/wasi-httpserver"]

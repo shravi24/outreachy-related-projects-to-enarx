@@ -1,0 +1,1 @@
+## This folder consists of linux sandbox implemetations in C using seccomp, libseccomp.

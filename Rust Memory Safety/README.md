@@ -1,0 +1,1 @@
+## This folder consists of demonstration of rust constructs that aid in memory safety and how it fairs in comaprison with language like C.

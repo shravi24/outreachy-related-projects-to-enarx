@@ -1,0 +1,1 @@
+## This folder holds the project that helps in deploying WASM on kubernetes
